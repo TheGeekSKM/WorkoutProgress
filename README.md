@@ -13,7 +13,7 @@ In this repository, you'll find:
 ## How to Use
 
 1. **Workout Logs:**
-    - Create a new Markdown file in the `/workout_logs` directory for each workout session, following the format `YYYY-MM-DD_Workout_Log.md`.
+    - Create a new Markdown file in the `/workout_logs` directory for each workout session, following the format `YYYY-MM-DD_WorkoutSplit.md`.
     - Fill in details such as exercises performed, sets, reps, weights, and any notes or observations.
     - Commit and push your changes to the repository.
 
