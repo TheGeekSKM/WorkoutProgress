@@ -10,12 +10,6 @@ In this repository, you'll find:
 - **Progress Charts:** Visual representations of my progress over time, including graphs and charts showing improvements in strength, endurance, or any other relevant metrics.
 - **Notes and Insights:** Personal reflections, insights, and any additional information related to my fitness journey.
 
-## Folder Structure
-/workout_logs
-├── YYYY-MM-DD_Workout_Log.md
-├── YYYY-MM-DD_Workout_Log.md
-└── ...
-
 ## How to Use
 
 1. **Workout Logs:**
